@@ -1,0 +1,21 @@
+{
+  "name": "fluxo-de-um-servidor-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/src/servido.js",
+  "scripts": {
+    "dev": "node --watch servido.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yJeanx11x/fluxo-de-um-servidor-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yJeanx11x/fluxo-de-um-servidor-Node.js/issues"
+  },
+  "homepage": "https://github.com/yJeanx11x/fluxo-de-um-servidor-Node.js#readme"
+}
